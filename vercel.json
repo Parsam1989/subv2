@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://v2.crosscenter.ir:2096/$1"
+    }
+  ]
+}
